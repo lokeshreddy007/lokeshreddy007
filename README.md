@@ -2,7 +2,7 @@
 
 <p align="center">
   <h1>I'm</h1> <img src="https://github.com/lokeshreddy007/PythonQMLProject/blob/master/lokeshreddy.gif" width="250px">
-  <samp>A software engineer with hands-on experience developing robust web applications for high volume business. An Enthusiastic team player with deep creative thinking, addicted to learn new technology and build new things which can help other people.
+  <samp>A software engineer with hands-on experience developing robust web applications for high volume business. An enthusiastic team player with deep creative thinking, addicted to learning new technology that in turn help to build new things which can help other people 😊.
   <br>
     - ⛷️ I’m working on IOT Dashboard with React. <br>
     - ⛷️ I’m learning Pentesting
