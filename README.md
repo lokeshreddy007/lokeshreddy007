@@ -24,6 +24,15 @@
     <img src="https://img.shields.io/badge/Back End-Express-333300"/>
     <img src="https://img.shields.io/badge/Back End-MYSQL-4479A1"/>
     <img src="https://img.shields.io/badge/Back End-MonogoDB-339933"/>
+    <br>
+     <h4> Desktop 🏹 <h4>
+      <img src="https://img.shields.io/badge/Desktop-QT/QML-339933"/>
+      <img src="https://img.shields.io/badge/Desktop-Electron-ff6600"/>
+ <br>
+      <h4> Data Visualization and Analytics 🏹 <h4>
+      <img src="https://img.shields.io/badge/Data Visualization and Analytics-Grafana-3FABD5"/>
+      <img src="https://img.shields.io/badge/Data Visualization and Analytics-Kibana-EF5198"/>
+      <img src="https://img.shields.io/badge/Data Visualization and Analytics-elastic search-3FABD5"/>
   </p>
 <!--
 **lokeshreddy007/lokeshreddy007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
