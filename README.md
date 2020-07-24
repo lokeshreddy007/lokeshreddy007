@@ -7,7 +7,7 @@
     - ⛷️ I’m working on IOT Dashboard with React. <br>
     - ⛷️ I’m learning Pentesting
      <br><br>Contact me :boy: on <a href="https://twitter.com/lokeshrocks7">Twitter</a>, 📫 <a href="mailto:lokeshreddy@gmail.com">Send an Email</a> 💬 Connect with <a href="https://www.linkedin.com/in/lokesh-reddy7/">Linkedin</a>
-     <br><br>Web: <a href="http://lokeshreddy007.github.io/">LokeshReddy</a> 🏹 <a href="https://blog-lokeshreddy.netlify.app/">Blog</a>
+     <br><br>🏘️ <a href="http://lokeshreddy007.github.io/">Portfolio</a> 🏹 <a href="https://blog-lokeshreddy.netlify.app/">Blog</a>
 </p> 
 
 <!--
