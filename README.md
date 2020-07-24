@@ -6,10 +6,25 @@
   <br>
     - ⛷️ I’m working on IOT Dashboard with React. <br>
     - ⛷️ I’m learning Pentesting
-     <br><br>Contact me :boy: on <a href="https://twitter.com/lokeshrocks7">Twitter</a>, 📫 <a href="mailto:lokeshreddy@gmail.com">Send an Email</a> 💬 Connect with <a href="https://www.linkedin.com/in/lokesh-reddy7/">Linkedin</a>
+     <br><br>Contact me 🧛‍♂️ on <a href="https://twitter.com/lokeshrocks7">Twitter</a>, 📫 <a href="mailto:lokeshreddy@gmail.com">Send an Email</a> 💬 Connect with <a href="https://www.linkedin.com/in/lokesh-reddy7/">Linkedin</a>
      <br><br>🏘️ <a href="http://lokeshreddy007.github.io/">Portfolio</a> 🏹 <a href="https://blog-lokeshreddy.netlify.app/">Blog</a>
 </p> 
-
+<h1>Stack used by Me! 🧛‍♂️ </h1>
+<h4> Frontend 🏹 <h4>
+    <img src="https://img.shields.io/badge/Front End-HTML5-FF5733"/>
+    <img src="https://img.shields.io/badge/Front End-CSS-0000ff"/>
+     <img src="https://img.shields.io/badge/Front End-JavaScript-cccc00"/>
+      <img src="https://img.shields.io/badge/Front End-React.js-33bbff"/>
+    <img src="https://img.shields.io/badge/Front End-Vue.js-42b883"/>
+  <br>
+  <h4> Backend 🏹 <h4>
+    <img src="https://img.shields.io/badge/Back End-Codeigniter-ff6600"/>
+    <img src="https://img.shields.io/badge/Back End-Laravel-f55247"/>
+    <img src="https://img.shields.io/badge/Back End-Node-8cff1a"/>
+    <img src="https://img.shields.io/badge/Back End-Express-333300"/>
+    <img src="https://img.shields.io/badge/Back End-MYSQL-4479A1"/>
+    <img src="https://img.shields.io/badge/Back End-MonogoDB-339933"/>
+  </p>
 <!--
 **lokeshreddy007/lokeshreddy007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
