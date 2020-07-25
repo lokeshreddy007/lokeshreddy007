@@ -37,6 +37,8 @@
       <img src="https://img.shields.io/badge/Cucumber-55BB67"/>
       <img src="https://img.shields.io/badge/Capybara-592668"/>
   </p>
+        <h4> Cross Platform App Development Framework 🏹 <h4>
+      <img src="https://img.shields.io/badge/Quasar-5AB5F7"/>
 <!--
 **lokeshreddy007/lokeshreddy007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
