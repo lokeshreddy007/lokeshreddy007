@@ -3,7 +3,7 @@
 <p align="center">
   <h1>I'm</h1> <img src="https://github.com/lokeshreddy007/PythonQMLProject/blob/master/lokeshreddy.gif" width="250px">
   <samp>A software engineer with hands-on experience developing robust web applications for high volume business. An enthusiastic team player with deep creative thinking, addicted to learning new technology that in turn help to build new things which can help other people 😊.
-     <br><br>Contact me 🧛‍♂️ on <a href="https://twitter.com/lokeshrocks7">Twitter</a>, 📫 <a href="mailto:lokeshreddy@gmail.com">Send an Email</a> 💬 Connect with <a href="https://www.linkedin.com/in/lokesh-reddy7/">Linkedin</a>
+     <br><br>Contact me 🧛‍♂️ on <a href="https://twitter.com/lokeshrocks7">Twitter</a>, 📫 <a href="mailto:lokeshreddy@gmail.com">Send an Email</a> or 💬 Connect with <a href="https://www.linkedin.com/in/lokesh-reddy7/">Linkedin</a>
      <br><br>🏘️ <a href="http://lokeshreddy007.github.io/">Portfolio</a> 🏹 <a href="https://blog-lokeshreddy.netlify.app/">Blog</a>
 </p> 
 <h1>Stack used by Me! 🧛‍♂️ </h1>
