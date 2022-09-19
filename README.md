@@ -4,7 +4,7 @@
   <h1>I'm</h1> <img src="https://github.com/lokeshreddy007/PythonQMLProject/blob/master/lokeshreddy.gif" width="250px">
   <samp>A software engineer with hands-on experience developing robust web applications for high volume business. An enthusiastic team player with deep creative thinking, addicted to learn new technology that in turn help to build amazing things which can help other people 😊.
      <br><br>Contact me 🧛‍♂️ on <a href="https://twitter.com/lokeshrocks7">Twitter</a>, 📫 <a href="mailto:lokeshreddy@gmail.com">Send an Email</a> or 💬 Connect with <a href="https://www.linkedin.com/in/lokesh-reddy7/">Linkedin</a>
-     <br><br>🏘️ <a href="https://lokeshreddy007.netlify.app">Portfolio</a> 🏹 <a href="https://lokeshreddy007.netlify.app/blog">Blog</a>
+     <br><br>🏘️ <a href="https://lokeshreddy007.netlify.app">Portfolio</a> 🏹 <a href="https://lokeshreddy007.netlify.app/uses">Uses</a>
 </p> 
 <h1>Stack used by Me! 🧛‍♂️ </h1>
 <h4> Frontend 🏹 <h4>
