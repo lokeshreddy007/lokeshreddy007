@@ -23,6 +23,11 @@
     <img src="https://img.shields.io/badge/MYSQL-4479A1"/>
 
  <br>
+    <h4> Tools 🏹 <h4>
+       <img src="https://img.shields.io/badge/Docker-41AEDE"/>
+    <img src="https://img.shields.io/badge/Postman-ff6600"/>
+
+ <br>
 
   </p>
       <h4> Automation 🏹 <h4>
